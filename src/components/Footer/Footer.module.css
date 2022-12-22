@@ -1,0 +1,20 @@
+.App__footer {
+    background-color: #cedaf2;
+    min-height: 320px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+
+  .footer__navbar li {
+    display: grid;
+    list-style: none;
+    text-decoration: none;
+  }
+
+.footer__items {
+  color:azure;
+}  

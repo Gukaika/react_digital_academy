@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.App-wrapper {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+    margin: 0px auto;
+    max-width: 1280px;
+}
+
+.container {
+  min-width: 1120px;
+  margin: 0 auto;
+}
+
+
+.flex {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+
+
+
+.App__link {
+  color: #0dcafe;
+}
+
+
+
